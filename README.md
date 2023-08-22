@@ -199,7 +199,6 @@ test/
 
 ## Favorites
 
-> TODO: Describe *at least* 1 task that you would like to remember, and the git command(s) to do it.
 
 1.upload your local commits to a remote repository
    ```commandline
