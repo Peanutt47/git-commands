@@ -48,8 +48,7 @@ src/a.py
 test/
     test_a.py
     ...
-```     
-> TODO: Write the git command to perform each of these:
+```
 
 1. Add README.md and *everything* in the `src` directory to the git staging area.
    ```
