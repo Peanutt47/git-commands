@@ -99,8 +99,6 @@ test/
 
 ## Undo Changes and Recover Files
 
-> TODO: enter the git command to do each of these
-> For questions where you are showing a command, use triple-backquote marks (as above) so the text is formatted as code.
 
 1.  Display the differences between your *working copy* of `a.py` and the `a.py` in the *local repository* (HEAD revision):
       ```commandline
